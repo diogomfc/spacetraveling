@@ -59,7 +59,7 @@ Criar conta e configurar o serviço do Prismic CMS e Utterances:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/nelsonsantosaraujo/spacetraveling.git
+$ git clone https://github.com/diogomfc/spacetraveling.git
 # Entre na pasta do repositório clonado
 $ cd spacetraveling
 ```
